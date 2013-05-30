@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sidebar",
+				"sidebar"
+			],
+			[
+				"on",
+				"on"
+			],
+			[
+				"off",
+				"off"
+			],
+			[
+				"10px",
+				"10px"
+			],
+			[
+				"heade",
+				"header-image"
+			],
+			[
+				"header-",
+				"header-text"
+			],
+			[
+				"first-",
+				"first-page-header"
+			],
+			[
+				"agree",
+				"agreeTermsDetails"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"paymentMEtho",
+				"paymentMethodAndAccount"
+			],
+			[
+				"higligh",
+				"highlights28"
+			],
+			[
+				"proje",
+				"project-box"
+			],
+			[
+				"lightb",
+				"lightbox-link"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"serve",
+				"serverJSON"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"url",
+				"url"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ghanpatel/Marqueed_Tintin/config/environments/development.rb",
+		"/Users/ghanpatel/Marqueed_Tintin/db/schema.rb",
+		"/Users/ghanpatel/Marqueed_Tintin/app/models/collection_user.rb",
+		"/Users/ghanpatel/Marqueed_Tintin/app/models/image.rb",
+		"/Users/ghanpatel/Marqueed_Tintin/app/controllers/third_party_controller.rb",
+		"/Users/ghanpatel/Marqueed_Tintin/app/assets/javascripts/uploads.js.coffee.erb",
+		"/Users/ghanpatel/Marqueed_Tintin/lib/assets/stylesheets/plugins/jquery.mq.annotate.css.scss",
+		"/Users/ghanpatel/Marqueed_Tintin/app/assets/javascripts/collections.js.coffee",
+		"/Users/ghanpatel/Marqueed_Tintin/lib/assets/javascripts/plugins/jquery.mq.annotate.js.coffee",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/shared/css/thank-you.css",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/css/mobile.css",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/form-mobile.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/thankyou.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/thankyou-mobile.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/form.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/js/mobile.js",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/snapone/css/styles.css",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/shared/js/billing.js",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/secure/protectPhones/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/secure/LocateApp/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/secure/LocateApp/_back.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/secure/familySecurity/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/secure/choosePayment/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/libs/FormBuilder.class.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/proxy.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/css/mobile-old.css",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/snapone/thankyou.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/snapone/form.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/shared/css/sync-buy.css",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/thankyou-old.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/secure/form.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/buy-master-step1-template.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/form-buy-master-3.php ",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/connectivity/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/config.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/shared/css/sync-buy-master.css",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/access2/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/access1/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/safety/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/life/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/storage1/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/connectivity/css/sync-buy-master.css",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/css/buy-master.css",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/connectivity/css/buy-master.css",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/index.php",
+		"/Users/ghanpatel/sml/SnapSecure-WebServer/WebContent/family.html",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/secure/index.php",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/sync/product_sync.html",
+		"/Users/ghanpatel/sml/SnapMarketing/SnapMarketingService/WebContent/templates/snapone/index.php",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/routes/project.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/models/Project.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/routes/index.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/views/contact.jade",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/public/javascripts/contact.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/public/stylesheets/style.styl",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/views/layout.jade",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/package.json",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/views/projects.jade",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/public/javascripts/projects.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/views/resume.jade",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/views/admin.jade",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/public/javascripts/admin-page.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/app.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/views/index.jade",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/public/javascripts/layout.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/README.md",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/public/stylesheets/admin.styl",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/views/admin-layout.jade",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/routes/admin.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/models/Website.js",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/app.configure",
+		"/Users/ghanpatel/Sites/ghanpatel-heroku/Procfile",
+		"/Users/ghanpatel/Sites/ghanpatel-site/web.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"50px",
+			"main-nav",
+			"logo-link",
+			"paginate",
+			"gon.collection.images[imageIndex]",
+			"gon.collection.images",
+			"thumb",
+			"_createOrShowAnnotationView",
+			"click",
+			"createOr",
+			"createOrShow",
+			"image",
+			"revisions",
+			"click",
+			"switchImage",
+			"createOrShow",
+			"MQ.Colle",
+			"MQ.colle",
+			"MQ.collectin",
+			"createOr",
+			"create",
+			"uploadImage",
+			"loadingImage",
+			"createOrShow",
+			"revisions-box-upload",
+			"createOrShow",
+			"revisions-upload-loading",
+			"revisions",
+			"data",
+			"evisions",
+			"revisions",
+			"evisions",
+			"loadingImageRevisions",
+			"revisions",
+			"revisions-li-link",
+			"fowrard",
+			"forward",
+			"HEAD",
+			".mq-annotation-marker {",
+			"self.element.on",
+			"HEAD",
+			"self.element.off",
+			"self.element.on",
+			"_bindMouseUp",
+			"enable",
+			"_bindMouseUp",
+			"_bindMouseDown",
+			"bindMouseDown",
+			"disable",
+			"draggable",
+			"_makeAnnotationDraggable",
+			"draggable",
+			"enable",
+			"bind",
+			"unbind",
+			"_mousedown",
+			"mousedown",
+			"console.log",
+			"fetchFram",
+			"startTrial",
+			"blue-bg",
+			"footer-branding",
+			"refund policy",
+			"7",
+			"platform",
+			"buy-now",
+			"orange-bg-img",
+			"orang-bg-img",
+			".paymentMethodMoreInfo",
+			"cc-requ",
+			"cc-req",
+			"Start Free",
+			"img",
+			"HEAD",
+			"<<<<<<< HEAD",
+			"HEAD",
+			"ccForm",
+			"forgot",
+			"thank",
+			"\n}",
+			"mainContent",
+			"trial",
+			"input",
+			"$period",
+			"img",
+			"globals.html",
+			"tagman",
+			"li {",
+			"favicon.ico",
+			"devices",
+			"devices-pg2",
+			"platform",
+			"pagethree",
+			"paymentMethodAnd",
+			"paymentMethod",
+			"align",
+			"pageThree",
+			"verify",
+			"start",
+			"font-family",
+			"disclaimer",
+			"billing and payment",
+			"use my billing",
+			"paymentMethodAnd",
+			"..",
+			"li {",
+			"highlights",
+			"0.00",
+			"billerData",
+			"include:",
+			"action",
+			"form",
+			"buy",
+			"buy-master",
+			"images",
+			"continue_pg2_on",
+			"images",
+			"Buy",
+			"/{$sharedPrefix}",
+			"sharedPrefix = \"temp",
+			"sharedPrefix",
+			"family.css",
+			"Start Right Top CTA",
+			"sync",
+			"SHARE WITH EASE",
+			"res.send",
+			"submit-bu",
+			"carousel-image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"projectDetails"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"upload",
+				"app/assets/javascripts/uploads.js.coffee.erb"
+			],
+			[
+				"schm",
+				"db/schema.rb"
+			],
+			[
+				"mq.",
+				"lib/assets/javascripts/plugins/jquery.mq.annotate.js.coffee"
+			],
+			[
+				"mq.ann",
+				"lib/assets/javascripts/plugins/jquery.mq.annotate.js.coffee"
+			],
+			[
+				"annotation",
+				"app/assets/javascripts/classes/annotation.js.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}
